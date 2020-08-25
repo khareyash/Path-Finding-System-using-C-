@@ -6,6 +6,6 @@ This project has a predefined-map in which user inputs its source and destinatio
 
 The program is based on dijikshtra's algorithm.
 
-The project was ran in "CODEBLOCKS" compiler for C++. C graphis was installed manually too , the link is given below for reference.
+The project was ran in "CODEBLOCKS" compiler for C++. C graphics was installed manually too , the link is given below for reference.
 
 Video link to downlaod C graphics : "https://www.youtube.com/watch?v=fWmis4uVCHg"
